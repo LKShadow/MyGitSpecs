@@ -1,1 +1,1 @@
-# myGigSpecs
+# myGitSpecs
